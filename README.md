@@ -1,5 +1,3 @@
-# sameerdahiya-Hotel_Booking_Cancellation_Analysis
-Data analytics project analyzing hotel booking cancellations using Python
 # 🏨 Hotel Booking Cancellation Analysis  
 🚀 A data-driven analysis to identify key factors influencing hotel cancellations and provide actionable recommendations to optimize revenue and operational efficiency.  
 
