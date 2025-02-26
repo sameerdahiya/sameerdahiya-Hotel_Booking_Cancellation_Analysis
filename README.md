@@ -33,5 +33,5 @@ City and Resort Hotels are experiencing **high cancellation rates**, leading to:
 ✅ **Improve Customer Experience** – Enhance service quality, especially in Portugal, to increase guest retention.  
 
 ## 📂 Project Files  
-- `hotel_cancellation_analysis.py` → Python script for data analysis & visualization.  
-- `hotel_cancellation_presentation.pdf` → Detailed project presentation with insights & recommendations.  
+- `Data Analysis (Hotel Booking).py` → Python script for data analysis & visualization.  
+- `Hotel Booking.pdf` → Detailed project presentation with insights & recommendations.  
